@@ -1,0 +1,6 @@
+venv
+.idea
+data/samples
+**/__pycache__
+*.txt
+*.png
